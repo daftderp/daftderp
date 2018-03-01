@@ -1,2 +1,2 @@
-# styled-react
+# styled-react-components
 Styled-Components for React
