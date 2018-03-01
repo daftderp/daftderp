@@ -1,2 +1,3 @@
 import Wrapper from './src/Wrapper.js';
-export { Wrapper };
+import Title from './src/Title.js';
+export { Wrapper, Title };
