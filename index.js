@@ -18,3 +18,5 @@ const Wrapper = styled.div`
     padding-bottom: 1.5rem;
   }
 `;
+
+export default Wrapper;
