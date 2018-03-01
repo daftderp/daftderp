@@ -1,1 +1,1 @@
-export Wrapper from './src/Wrapper';
+export Wrapper from './Wrapper.js';
