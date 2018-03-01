@@ -1,5 +1,5 @@
-const react = require('react');
-const styled = require('styled-components');
+import react from 'react';
+import styled from 'styled-components';
 
 const Wrapper = styled.div`
   padding-top: 2rem;
